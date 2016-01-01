@@ -451,6 +451,10 @@ html, body {
     margin-top: 0;
   }
 
+  a{
+    color: $article-text;
+  }
+
   img {
     max-width: 100%;
   }
